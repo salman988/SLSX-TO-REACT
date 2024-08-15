@@ -1,0 +1,7 @@
+th { text-decoration: underline; }
+th, td {
+  padding: 5px;
+  background-color: lightgreen;
+  text-align: left;
+  margin-top: 20px;
+}
