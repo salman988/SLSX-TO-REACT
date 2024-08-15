@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/salman988/SLSX-TO-REACT/static/css/main.921e2451.css",
+    "main.js": "/salman988/SLSX-TO-REACT/static/js/main.978fb0c7.js",
+    "static/js/453.2188e443.chunk.js": "/salman988/SLSX-TO-REACT/static/js/453.2188e443.chunk.js",
+    "index.html": "/salman988/SLSX-TO-REACT/index.html",
+    "main.921e2451.css.map": "/salman988/SLSX-TO-REACT/static/css/main.921e2451.css.map",
+    "main.978fb0c7.js.map": "/salman988/SLSX-TO-REACT/static/js/main.978fb0c7.js.map",
+    "453.2188e443.chunk.js.map": "/salman988/SLSX-TO-REACT/static/js/453.2188e443.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.921e2451.css",
+    "static/js/main.978fb0c7.js"
+  ]
+}
